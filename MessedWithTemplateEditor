@@ -56,7 +56,8 @@
 		.ie-browser .num12,
 		[owa] .num12,
 		[owa] .block-grid {
-			width: 650px !important;
+			max-width: 650px !important;
+			min-width: 200px !important;
 		}
 
 		.ie-browser .mixed-two-up .num4,
@@ -267,7 +268,7 @@
 		}
 	</style>
 </head>
-<body class="clean-body" style="margin: 0; padding: 0; -webkit-text-size-adjust: 100%; background-color: #FFFFFF;">
+<body class="clean-body" style="margin: 0; padding: 0; -webkit-text-size-adjust: 100%; background-color: #FFFFFF; max-width:800px;">
 <style id="media-query-bodytag" type="text/css">
 @media (max-width: 670px) {
   .block-grid {
@@ -375,7 +376,7 @@
 <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px; font-family: Arial, sans-serif"><![endif]-->
 <div style="color:#FFFFFF;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:150%;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
 <div style="line-height: 18px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; text-align: center; color: #FFFFFF;">
-<p style="font-size: 12px; line-height: 18px; text-align: center; margin: 0;"><span style="text-decoration: underline; font-size: 12px; line-height: 18px;"><strong><span style="font-size: 24px; line-height: 36px;">Senate This Week:</span></strong></span></p>
+<p style="font-size: 12px; line-height: 18px; text-align: center; margin: 0;"><span style="font-size: 12px; line-height: 18px;"><strong><span style="font-size: 24px; line-height: 36px;">Senate This Week:</span></strong></span></p>
 <p style="font-size: 12px; line-height: 27px; text-align: center; margin: 0;"><span style="font-size: 18px;">Budget Requests</span></p>
 <p style="font-size: 12px; line-height: 27px; text-align: center; margin: 0;"><span style="font-size: 18px;">Approved Changes to Room Draw</span></p>
 <p style="font-size: 12px; line-height: 27px; text-align: center; margin: 0;"><span style="font-size: 18px;">Elected New President</span></p>
@@ -411,9 +412,9 @@
 <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px; font-family: Arial, sans-serif"><![endif]-->
 <div style="color:#000000;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
 <div style="line-height: 14px; font-size: 12px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #000000;">
-<p style="font-size: 12px; line-height: 24px; text-align: center; margin: 0;"><span style="font-size: 20px;">Noise Advisory:</span></p>
+<p style="font-size: 12px; line-height: 14px; text-align: center; margin: 0;"><span style="font-size: 12px; line-height: 14px;"><strong><span style="font-size: 24px; line-height: 28px;">Noise Advisory:</span></strong></span></p>
 <p style="font-size: 12px; line-height: 21px; text-align: center; margin: 0;"><span style="font-size: 18px;">Thursday</span></p>
-<p style="font-size: 12px; line-height: 19px; text-align: center; margin: 0;"><span style="font-size: 16px;">Linde <span style="line-height: 19px; font-size: 16px;">Dorm</span> Meeting (9-11)</span></p>
+<p style="font-size: 12px; line-height: 19px; text-align: center; margin: 0;"><span style="font-size: 16px;">Linde Dorm Meeting (9-11)</span></p>
 <p style="font-size: 12px; line-height: 16px; text-align: center; margin: 0;"><span style="font-size: 14px;">Contact: Kyle Grace (911)</span></p>
 <p style="font-size: 12px; line-height: 21px; text-align: center; margin: 0;"><span style="font-size: 18px;">Friday</span></p>
 <p style="font-size: 12px; line-height: 19px; text-align: center; margin: 0;"><span style="font-size: 16px;">Linde Dorm Meeting (9-11)</span></p>
@@ -435,11 +436,11 @@
 </div>
 </div>
 <div style="background-color:#555555;">
-<div class="block-grid" style="Margin: 0 auto; min-width: 320px; max-width: 650px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; background-color: transparent;;">
+<div class="block-grid" style="Margin: 0 auto; min-width: 320px; max-width: 850px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; background-color: transparent;;">
 <div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
 <!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#555555;"><tr><td align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:650px"><tr class="layout-full-width" style="background-color:transparent"><![endif]-->
 <!--[if (mso)|(IE)]><td align="center" width="650" style="background-color:transparent;width:650px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px;"><![endif]-->
-<div class="col num12" style="min-width: 320px; max-width: 650px; display: table-cell; vertical-align: top;;">
+<div class="col num12" style="min-width: 320px; max-width: 850px; display: table-cell; vertical-align: top;;">
 <div style="width:100% !important;">
 <!--[if (!mso)&(!IE)]><!-->
 <div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
@@ -447,7 +448,7 @@
 <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px; font-family: Arial, sans-serif"><![endif]-->
 <div style="color:#FFFFFF;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
 <div style="line-height: 14px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #FFFFFF;">
-<p style="font-size: 14px; line-height: 16px; text-align: center; margin: 0;"><span style="font-size: 14px; line-height: 16px;"><strong><span style="font-size: 24px; line-height: 28px;">Executive Updates:</span></strong></span></p>
+<p style="font-size: 14px; line-height: 16px; text-align: center; margin: 0;"><span style="font-size: 14px; line-height: 16px;"><span style="font-size: 14px; line-height: 16px;"><strong><span style="font-size: 24px; line-height: 28px;">Executive Updates:</span></strong></span></span></p>
 <p style="font-size: 14px; line-height: 16px; text-align: center; margin: 0;"> </p>
 <p style="font-size: 14px; line-height: 21px; text-align: center; margin: 0;"><span style="text-decoration: underline; font-size: 14px; line-height: 16px; color: #eeaa00;"><span style="font-size: 18px; line-height: 21px;">President</span></span><span style="font-size: 18px;"></span></p>
 <p style="font-size: 14px; line-height: 16px; text-align: center; margin: 0;"><span style="font-size: 14px; line-height: 16px;">We won , queue crab rave</span></p>
